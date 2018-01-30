@@ -1,8 +1,6 @@
 body {
   background-image:url("logperks.github.io/Projects/Project 2/mountainrange.jpeg");
-  background-repeat:no-repeat;
-  background-size:100% 100%;
-  color:white;
+  background-repeat:repeat-x;
 }
 
 h1 {
