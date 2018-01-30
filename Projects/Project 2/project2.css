@@ -3,6 +3,26 @@ body {
   background-repeat:no-repeat;
 }
 
+h1 {
+  color:white;
+}
+
+h2 {
+  color:white;
+}
+
+h3 {
+  color:white;
+}
+
+p {
+  color:white;  
+}
+
+li {
+  color:white;
+}
+
 .toptitle {
   text-align:center;
   font-family:"Comic Sans MS";
