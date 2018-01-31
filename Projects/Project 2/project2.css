@@ -1,6 +1,15 @@
 body {
  background-color:rgb(255,0,0);
 }
+
+p{
+ font-family="Tahoma";
+}
+
+h2{
+ font-family="Verdana";
+}
+
 .intro_filler {
   font-size:18px;
   font-family:"Tahoma";
