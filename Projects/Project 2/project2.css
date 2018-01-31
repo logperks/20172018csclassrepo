@@ -2,6 +2,11 @@ body {
   background-image:url("logperks.github.io/Projects/Project 2/mountainrange.jpeg");
 }
 
+.intro_filler{
+ font-size:18px;
+ font-family:"Tahoma";
+}
+
 .toptitle {
   text-align:center;
   font-family:"Comic Sans MS";
