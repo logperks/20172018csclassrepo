@@ -1,0 +1,17 @@
+.red-center-blue-rectangle {
+  color:red;
+  text-align:center;
+  border:2px blue;
+}
+
+.black-left-white-round-red {
+  background-color:black;
+  text-align:left;
+  color:white;
+  border:2px red;
+  border-radius:15px;
+}
+
+.paragraph-color {
+ color:#ffcc00; 
+}
