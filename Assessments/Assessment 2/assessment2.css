@@ -1,7 +1,8 @@
 #red-center-blue-rectangle {
   color:red;
   text-align:center;
-  border:2px blue;
+  border-width:20px;
+  border-color:blue;
 }
 
 #black-left-white-round-red {
