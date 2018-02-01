@@ -1,16 +1,14 @@
 #red-center-blue-rectangle {
   color:red;
   text-align:center;
-  border-width:20px;
-  border-color:blue;
+  border: 20px blue;
 }
 
 #black-left-white-round-red {
   background-color:black;
   text-align:left;
   color:white;
-  border-width:10px;
-  border-color:red;
+  border:10px red;
   border-radius:5px;
 }
 
