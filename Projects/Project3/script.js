@@ -23,7 +23,7 @@ document.getElementById("gamestart").onclick = function(){
 
   } 
   //end of while statement
-  document.getElementById("content").innerHTML = "Correct! Attempts taken: " + attempts;
+  document.getElementById("result").innerHTML = "Correct! Attempts taken: " + attempts;
 
 } 
 //end of button function
