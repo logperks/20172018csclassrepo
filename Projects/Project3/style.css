@@ -1,4 +1,8 @@
 .content{
-  font-size: 36px;
+  font-size: 150%;
   text-align: center;
+}
+
+#gamestart{
+ text-align: center; 
 }
