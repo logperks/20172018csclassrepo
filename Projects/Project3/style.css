@@ -1,13 +1,8 @@
 .content{
   font-size: 150%;
   text-align: center;
-  font-family: "Arial Black";
 }
 
 .wrapper{
  text-align: center; 
-}
-
-#gamestart{
- position: absolute;
 }
