@@ -1,4 +1,3 @@
-
 document.getElementById("gamestart").onclick = function(){
 var correct = Math.floor(Math.random() * 5);
 var attempts = 1;
