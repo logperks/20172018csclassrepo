@@ -1,9 +1,9 @@
-.content{
+#content{
   text-align: center;
   font-size: 36px;
 }
 
-#gamestart{
+.gamestart{
  text-align: center;
   font-size 24px;
 }
