@@ -1,5 +1,9 @@
 .content{
   text-align: center;
-  text-family: "Arial Black";
   font-size: 36px;
+}
+
+#gamestart{
+ text-align: center;
+  font-size 24px;
 }
