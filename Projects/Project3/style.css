@@ -4,6 +4,11 @@
   font-family: "Arial Black", Gadget, sans-serif;
 }
 
-#gamestart{
+.wrapper{
  text-align: center; 
+}
+
+#gamestart{
+ position: absolute;
+ top: 50%;
 }
