@@ -22,7 +22,7 @@
                var shapesize = [Math.floor(Math.random() * 100) + 50];
                
                var ran_left = [Math.floor(Math.random() * 500)];
-               var ran_right = [Math.floor(Math.random() * 500)];
+               var ran_right = [Math.floor(Math.random() * 100)];
                var ran_top = [Math.floor(Math.random() * 250)];
                
                document.getElementById("shape").style.width = shapesize;
