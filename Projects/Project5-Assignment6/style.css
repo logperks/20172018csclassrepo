@@ -1,1 +1,48 @@
+body{
+  background-image: url("3-dimensional-art-abstract-specularity2560x1600.jpg");
+  background-attachment: fixed;
+  background-position: center top;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
 
+button{
+  font-family: "Tahoma";
+  font-size: 100%;
+  color: white;
+  background-color: #555555;
+  padding: 12px 20px;
+  border: none;
+}
+
+#buttongrid{
+ text-align: center; 
+}
+
+p, li{
+  font-family: "Tahoma";
+  font-size: 20px;
+  border: 10px white;
+}
+
+#maincontent{
+  color: white;
+  text-align: center;
+  font-size: 15px;
+}
+
+h2{
+  color: white;
+  text-align: center;
+  font-family: "Verdana";
+}
+
+h3{
+  font-family: "Trebuchet MS";
+  font-size: 25px;
+}
+
+#me, #experience, #examples{
+  color: white;
+  padding: 10px 10px -20px 10px;
+}
