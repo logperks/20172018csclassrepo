@@ -1,0 +1,11 @@
+.dicecontainer{
+  float:left;
+}
+
+button{
+  padding: 12px;
+}
+
+#betamount{
+  font-size:20px;
+}
