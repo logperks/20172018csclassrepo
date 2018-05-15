@@ -1,0 +1,35 @@
+<!doctype HTML>
+
+<h2>Craps</h2>
+
+<div class="dicerealm">
+  <div class="dicecontainer">
+    <img width="75px" id="dice1" src="handtinyblack.gif">
+  </div>
+  <div class="dicecontainer">
+    <img width="75px" id="dice2" src="handtinyblack.gif">
+  </div>
+</div>
+
+<div class="bettable">
+  <br>
+  <br>
+  <br>
+  <br>
+  <h3>Bet:</h3>
+  <p id="betamount"></p>
+  <p>Money available: <span id="moneyamount"></span> <span id="plusorminus"></span><span id="numberchange"></span></p>
+  <button id="betincrease">+</button><button id="betdecrease">-</button><button id="allinbutton">All-in</button>
+  <br>
+  <br>
+  <button id="rollbutton" title="Once this button is clicked, your bet will be secured and the game will commence.">Click this button to begin!</button>
+</div>
+
+<h3>Rules:</h3>
+<li>Enter your bet with the "+", "-", or "All in" buttons.</li>
+<li>After entering your bet, press the button below the "+" and "-" buttons to begin.</li>
+<li>You lose your betted amount if the dice lands on 2, 3, or 11</li>
+<li>You win your betted amount times two if the dice lands on 7</li>
+
+<link href="style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="script.js"></script>
